@@ -4,7 +4,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CAIOdevSILVA&show_icons=true&theme=tokyonight)
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CAIOdevSILVA&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOdevSILVA&layout=compact&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tecnologias que eu utilizo.
@@ -23,12 +24,6 @@
   <img align="center" alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
-
-</br>
-</br>
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOdevSILVA&layout=compact&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </br>
