@@ -1,7 +1,7 @@
 ### Olá eu sou o Caio Silva 👋
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-silva-b12bb61a9/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_caiosilva/)
 
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=CAIOdevSILVA&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOdevSILVA&layout=compact&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
