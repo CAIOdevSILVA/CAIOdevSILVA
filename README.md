@@ -46,6 +46,8 @@
 
 - [ShareMe - Projeto de clone de uma Rede Social](https://shareme-caio-silva.netlify.app/)</br>
 
+- [PokeNext - Projeto de Pokedex com Nextjs e tailwind Css](poke-next-caio-silva-b3bd3cibo-caiodevsilva.vercel.app)</br>
+
 - [Lord of The Novels - Projeto em desenvolvimento](https://github.com/CAIOdevSILVA/Lord-Of-The-Novels)</br>
 
 - [Clone Do Airbnb -  Projeto em desenvolvimento](https://github.com/CAIOdevSILVA/Clone-Airbnb)</br>
