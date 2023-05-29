@@ -48,6 +48,6 @@
 
 - [PokeNext - Projeto de Pokedex com Nextjs e tailwind Css](https://poke-next-caio-silva-b3bd3cibo-caiodevsilva.vercel.app)</br>
 
-- [Lord of The Novels - Projeto em desenvolvimento](https://github.com/CAIOdevSILVA/Lord-Of-The-Novels)</br>
+- [Lord of The Novels - Projeto em desenvolvimento](https://lord-of-the-novels.vercel.app/)</br>
 
 - [Clone Do Airbnb -  Projeto em desenvolvimento](https://github.com/CAIOdevSILVA/Clone-Airbnb)</br>
