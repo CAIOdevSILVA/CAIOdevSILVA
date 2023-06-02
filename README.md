@@ -46,6 +46,8 @@
 
 - [ShareMe - Projeto de clone de uma Rede Social](https://shareme-caio-silva.netlify.app/)</br>
 
+- [Portfólio - Projeto onde deenvolvo meu Portfólio com React, Typescript e Tailwindcss ](https://caiosilva.netlify.app/)</br>
+
 - [PokeNext - Projeto de Pokedex com Nextjs e tailwind Css](https://poke-next-caio-silva-b3bd3cibo-caiodevsilva.vercel.app)</br>
 
 - [Lord of The Novels - Projeto em desenvolvimento](https://lord-of-the-novels.vercel.app/)</br>
