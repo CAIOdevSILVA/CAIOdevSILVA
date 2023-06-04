@@ -54,4 +54,3 @@ src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=pos
 
 - [Lord of The Novels - Projeto de uma plataforma de leitura usando React, Styled-Components e o CMS Sanity](https://lord-of-the-novels.vercel.app/)</br>
 
-- [Clone Do Airbnb -  Projeto em desenvolvimento](https://github.com/CAIOdevSILVA/Clone-Airbnb)</br>
